@@ -4,3 +4,6 @@ __pycache__/
 .env
 instance/
 .vscode/
+test.py
+instance/site.db
+__pycache__/
